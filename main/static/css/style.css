@@ -1,0 +1,42 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.reg , .login{
+    padding: 30px;
+    border: 2px solid black;
+}
+.login {
+    height: 380px;
+}
+
+.err{
+    color: red;
+}
+
+p{
+    color: green;
+}
+.line{
+    height: 2px;
+    width: auto;
+    background-color: black;
+    margin-bottom: 10px;
+}
+.wishes{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.add{
+    display: inline-block;
+    margin-left: 100px;
+    padding: 30px;
+    border: 1px solid black;
+}
+.cont{
+    margin-left: 20px;
+}
+.btn-s{
+    background-color: rgb(173, 146, 226);
+}
